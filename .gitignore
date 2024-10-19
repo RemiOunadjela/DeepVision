@@ -1,3 +1,13 @@
+# Ignore contents of specific folders
+bulk_images/*
+saved_index/*
+that_one_image/*
+
+# But keep the folders themselves
+!bulk_images/.gitkeep
+!saved_index/.gitkeep
+!that_one_image/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
