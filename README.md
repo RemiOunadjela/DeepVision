@@ -1,8 +1,8 @@
-# Reverse Image Search System
+# DeepVision: GPU-Accelerated Reverse Image Search Engine
 
 ## Overview
 
-This project implements a reverse image search system using deep learning and efficient similarity search techniques. The system allows users to find visually similar images within a large dataset by using an image as a query.
+DeepVision is a high-performance reverse image search system that leverages deep learning and efficient similarity search techniques. This project enables users to quickly find visually similar images within large datasets using an image as a query, making it ideal for applications in digital asset management, content moderation, and visual data exploration.
 
 ### Key Features
 
